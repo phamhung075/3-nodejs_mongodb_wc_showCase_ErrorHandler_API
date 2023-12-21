@@ -1,5 +1,7 @@
 # Node.js MongoDB Showcase Projects
 
+This is a personal project created based on the series of lessons by @anonystick (https://github.com/anonystick).
+
 ## 1. [Authentication and API Key Management (HS256)](https://github.com/phamhung075/2-nodejs_mongodb_wc_showCase_Dynamic_for_ApiKey_and_Permissions_HS256/tree/master)
 ---
 ## 2. ErrorHandler API
